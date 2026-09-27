@@ -9,7 +9,8 @@ Built from [Minimal Light](https://github.com/yaoyao-liu/minimal-light) by Yaoya
 - `_config.yml`: profile, contact links, theme settings.
 - `index.md`: biography, research interests, news, education, experience.
 - `_data/publications.yml`: publications and Paper / Project / Model / Code links.
-- `assets/portrait.jpg`: profile photograph.
+- `assets/portrait.png`: displayed profile photograph, with white padding baked into the image. Replace this file with your next photo (a padded square works best for the theme’s circular crop).
+- `assets/portrait.jpg`: original photograph retained as a backup. The displayed PNG centers the original 413×470 pixels on a 720×720 white canvas without changing the original pixels. There is no custom CSS that shrinks the portrait.
 - `assets/css/custom.css`: small overrides; upstream styles remain in `_sass/`.
 
 Push to `main`. GitHub Pages builds Jekyll from the repository root. No custom domain is configured. The footer links to the actual template.

@@ -1,21 +1,5 @@
 /* Small content/accessibility adjustments to the upstream Minimal Light theme. */
-/* Shrink the complete photo inside a roomy circle, without cropping it. */
-.image.avatar {
-  width:144px;
-  height:144px;
-  display:inline-flex;
-  align-items:center;
-  justify-content:center;
-  overflow:hidden;
-  background:#fff;
-}
-.image.avatar img {
-  display:block;
-  width:72px;
-  height:auto;
-  padding:0;
-  border-radius:0;
-}
+.image.avatar img { height:auto; }
 .publications .pub-row { align-items:flex-start; }
 .publications .col-sm-3 { flex:0 0 145px; box-sizing:border-box; }
 .publications .col-sm-9 { min-width:0; }
