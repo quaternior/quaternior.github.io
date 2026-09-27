@@ -1,0 +1,25 @@
+title: Jinhyeok Kim
+position: Integrated M.S./Ph.D. Student
+affiliation: Seoul National University
+affiliation_link: https://www.snu.ac.kr/
+email: jhkim00@snu.ac.kr
+description: "Jinhyeok Kim — AI systems researcher at Seoul National University. Efficient LLM inference and serving, GPU kernel optimization, and algorithm–system co-design."
+keywords: AI systems, LLM inference, GPU kernels, Jinhyeok Kim
+url: https://quaternior.github.io
+baseurl: ""
+canonical: https://quaternior.github.io/
+google_scholar: https://scholar.google.com/citations?user=lUqkcSoAAAAJ&hl=en
+github_link: https://github.com/quaternior
+linkedin: https://www.linkedin.com/in/%EC%A7%84%ED%98%81-%EA%B9%80-527698227/
+avatar: /assets/portrait.jpg
+favicon: /assets/favicon.svg
+favicon_dark: /assets/favicon.svg
+enable_footnote: true
+auto_dark_mode: false
+font: Serif
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor

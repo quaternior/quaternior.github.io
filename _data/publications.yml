@@ -1,0 +1,32 @@
+main:
+  - title: "Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language Action Model"
+    authors: 'Hoeun Lee<sup>§ ¶</sup>, Jaeik Kim<sup>¶</sup>, Jusang Oh<sup>¶</sup>, <strong>Jinhyeok Kim</strong>, Geon Choi, Hyeonggeun Kim, Jaeyoung Do<sup>†</sup>'
+    conference_short: NeurIPS
+    conference: '40th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026'
+    paper: https://arxiv.org/abs/2609.13053
+    page: https://dynin.ai/robotics/
+    model: https://huggingface.co/snu-aidas/Dynin-Robotics
+    code: https://github.com/AIDASLab/Dynin-Robotics
+    image: /assets/img/robotics.png
+    image_alt: Dynin-Robotics unified model overview
+    notes: Model weights and code coming soon.
+
+  - title: Unified Static-Dynamic Pruning for Efficient LLM Inference
+    authors: '<strong>Jinhyeok Kim</strong>, Yejoon Lee, Jaeyoung Do<sup>†</sup>'
+    conference_short: VLDB
+    conference: 'Proceedings of the VLDB Endowment <strong>(VLDB)</strong>, 2026'
+    paper: https://arxiv.org/abs/2607.21985
+    code: https://github.com/AIDASLab/SPDP
+    image: /assets/img/spdp.png
+    image_alt: SPDP sparse inference design overview
+
+  - title: "Dynin-Omni: Omnimodal Unified Large Diffusion Language Model"
+    authors: 'Jaeik Kim, Woojin Kim, Jihwan Hong, Yejoon Lee, Sieun Hyeon, Mintaek Lim, Yunseok Han, Dogeun Kim, Hoeun Lee, Hyunggeun Kim, <strong>Jinhyeok Kim</strong>, Jaeyoung Do'
+    conference_short: arXiv
+    conference: arXiv preprint, 2026
+    paper: https://arxiv.org/abs/2604.00007
+    page: https://dynin.ai/omni/
+    model: https://huggingface.co/snu-aidas/Dynin-Omni
+    code: https://github.com/AIDASLab/Dynin-Omni
+    image: /assets/img/omni.jpg
+    image_alt: Dynin-Omni multimodal tasks overview

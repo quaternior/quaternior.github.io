@@ -2,25 +2,33 @@
 
 https://quaternior.github.io/
 
-A lightweight, responsive academic website. Plain HTML and CSS; no build step, JavaScript, tracking, external fonts, or package dependencies.
+Built from [Minimal Light](https://github.com/yaoyao-liu/minimal-light) by Yaoyao Liu, upstream commit `1ea07f39518ac44644406380c83da6f89037c4fc` (CC0-1.0). The original layout, Sass, fonts, and publication styling are retained. Small local adjustments add accessible link names, full publication resource links, uncropped research thumbnails, and mobile fixes.
 
-## Update
+## Edit content
 
-- Edit `index.html` for biography, publications, education, and links.
-- Edit `style.css` for appearance.
-- Replace `assets/portrait.jpg` for the profile photo.
-- Push to `main`; GitHub Pages publishes from the repository root.
+- `_config.yml`: profile, contact links, theme settings.
+- `index.md`: biography, research interests, news, education, experience.
+- `_data/publications.yml`: publications and Paper / Project / Model / Code links.
+- `assets/portrait.jpg`: profile photograph.
+- `assets/css/custom.css`: small overrides; upstream styles remain in `_sass/`.
 
-## Preview
+Push to `main`. GitHub Pages builds Jekyll from the repository root. No custom domain is configured. The footer links to the actual template.
+
+## Local preview
+
+With Ruby and Bundler installed:
 
 ```sh
-python3 -m http.server 8000
+bundle install
+bundle exec jekyll serve
 ```
-
-Open http://localhost:8000. The page supports narrow screens, keyboard navigation, and printing.
 
 ## Content sources
 
-Migrated from https://sites.google.com/view/jinhyeokkim/home on 2026-09-27. Paper descriptions were checked against their linked arXiv abstracts. The Dynin-Omni author list follows the owner's original homepage; the arXiv metadata inspected during migration had a different author list. Reconcile this when updating that publication.
+Biography and original publications: https://sites.google.com/view/jinhyeokkim/home
 
-The layout and styles are original, using conventional academic-homepage typography and structure. The portrait belongs to the site owner.
+Dynin-Robotics metadata and links: user-provided citation, https://sites.google.com/view/hoeunlee/, and https://dynin.ai/robotics/. Code and model destinations currently announce a forthcoming release.
+
+The July 2026 VLDB acceptance news was supplied by the owner. Dynin-Omni authors remain as listed on the owner's original homepage; its arXiv metadata differed when checked during the initial migration.
+
+Research images come from the papers' official arXiv/GitHub materials: SPDP design overview, AIDASLab/Dynin-Robotics `assets/main.png`, and AIDASLab/Dynin-Omni `assets/main.jpg`. The profile photograph and research content belong to their respective owners; the included CC0 license covers the upstream template.

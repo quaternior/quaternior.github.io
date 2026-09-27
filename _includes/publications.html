@@ -1,0 +1,28 @@
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<div class="publications">
+<ol class="bibliography">
+{% for link in site.data.publications.main %}
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position:relative;padding-right:15px;padding-left:15px;">
+    <img src="{{ link.image }}" alt="{{ link.image_alt }}" class="teaser img-fluid z-depth-1" loading="lazy">
+    <abbr class="badge">{{ link.conference_short }}</abbr>
+  </div>
+  <div class="col-sm-9" style="position:relative;padding-right:15px;padding-left:20px;">
+    <div class="title"><a href="{{ link.paper }}">{{ link.title }}</a></div>
+    <div class="author">{{ link.authors }}</div>
+    <div class="periodical"><em>{{ link.conference }}</em></div>
+    <div class="links">
+      {% if link.paper %}<a href="{{ link.paper }}" class="btn btn-sm z-depth-0">Paper</a>{% endif %}
+      {% if link.page %}<a href="{{ link.page }}" class="btn btn-sm z-depth-0">Project</a>{% endif %}
+      {% if link.model %}<a href="{{ link.model }}" class="btn btn-sm z-depth-0">Model</a>{% endif %}
+      {% if link.code %}<a href="{{ link.code }}" class="btn btn-sm z-depth-0">Code</a>{% endif %}
+    </div>
+    {% if link.notes %}<div class="release-note">{{ link.notes }}</div>{% endif %}
+  </div>
+</div>
+</li>
+{% endfor %}
+</ol>
+<p class="author-notes"><sup>§</sup> First author · <sup>¶</sup> Main contributors · <sup>†</sup> Corresponding author</p>
+</div>
