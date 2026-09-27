@@ -9,7 +9,7 @@ Built from [Minimal Light](https://github.com/yaoyao-liu/minimal-light) by Yaoya
 - `_config.yml`: profile, contact links, theme settings.
 - `index.md`: biography, research interests, news, education, experience.
 - `_data/publications.yml`: publications and Paper / Project / Model / Code links.
-- `assets/portrait.png`: displayed profile photograph, copied unchanged from the owner-provided `증명사진_edited.png`. Replace this file with your next photo.
+- `assets/portrait-edited-cef8ad18.png`: displayed profile photograph, copied unchanged from the owner-provided `증명사진_edited.png`. Replace this file with your next photo.
 - `assets/portrait.jpg`: previous original photograph retained as a backup. The current PNG has no additional image edits or custom CSS that shrinks the portrait.
 - `assets/css/custom.css`: small overrides; upstream styles remain in `_sass/`.
 
