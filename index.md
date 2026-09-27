@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an integrated M.S./Ph.D. student in Electrical and Computer Engineering at **Seoul National University**, advised by [Prof. Jaeyoung Do](https://aidas.snu.ac.kr/) in the [AIDAS Lab](https://aidas.snu.ac.kr/). Previously, I received my B.S. in Electrical and Electronic Engineering from Yonsei University.
+I am an integrated M.S./Ph.D. student in Electrical and Computer Engineering at **Seoul National University**, advised by [Prof. Jaeyoung Do](https://sites.google.com/view/jydo/home/) in the [AIDAS Lab](https://aidas.snu.ac.kr/). Previously, I received my B.S. in Electrical and Electronic Engineering from Yonsei University.
 
 My research focuses on **efficient AI systems**, particularly LLM inference and serving, GPU kernel optimization, and algorithm–system co-design.
 
@@ -24,7 +24,7 @@ My research focuses on **efficient AI systems**, particularly LLM inference and 
 
 - **Seoul National University** · Mar. 2025 – Present  
   Integrated M.S./Ph.D. in Electrical and Computer Engineering  
-  Advisor: Prof. Jaeyoung Do
+  Advisor: [Prof. Jaeyoung Do](https://sites.google.com/view/jydo/home/)
 - **Yonsei University** · Mar. 2019 – Feb. 2025  
   B.S. in Electrical and Electronic Engineering
 
