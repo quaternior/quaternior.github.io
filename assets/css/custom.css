@@ -1,5 +1,9 @@
 /* Small content/accessibility adjustments to the upstream Minimal Light theme. */
-.image.avatar img { height:auto; }
+/* 1.5x the theme's photo width; preserve the complete cropped portrait. */
+.image.avatar img { width:156.6px; height:auto; padding:0; border-radius:4px; }
+.image.avatar { margin:20px 0; }
+@media(max-width:960px) { .image.avatar img { width:175.5px; } }
+@media(max-width:480px) { .image.avatar img { width:142.5px; } }
 .publications .pub-row { align-items:flex-start; }
 .publications .col-sm-3 { flex:0 0 145px; box-sizing:border-box; }
 .publications .col-sm-9 { min-width:0; }
