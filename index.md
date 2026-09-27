@@ -34,7 +34,7 @@ My research focuses on **efficient AI systems**, particularly LLM inference and 
   Mar. 2025 – Present
 - **Research Intern**, AIDAS Lab, Seoul National University  
   Jul. 2024 – Feb. 2025
-- **Research Intern**, Information Communications & Security Lab, Yonsei University  
+- **Research Intern**, [Information Communications & Security Lab](https://sites.google.com/site/jeminleeweb), Yonsei University  
   Jan. 2024 – Feb. 2024
 
 ## Technical Skills
