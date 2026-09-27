@@ -30,9 +30,9 @@ My research focuses on **efficient AI systems**, particularly LLM inference and 
 
 ## Research Experience
 
-- **Graduate Research Assistant**, AIDAS Lab, Seoul National University  
+- **Graduate Research Assistant**, [AIDAS Lab](https://aidas.snu.ac.kr/), Seoul National University  
   Mar. 2025 – Present
-- **Research Intern**, AIDAS Lab, Seoul National University  
+- **Research Intern**, [AIDAS Lab](https://aidas.snu.ac.kr/), Seoul National University  
   Jul. 2024 – Feb. 2025
 - **Research Intern**, [Information Communications & Security Lab](https://sites.google.com/site/jeminleeweb), Yonsei University  
   Jan. 2024 – Feb. 2024
