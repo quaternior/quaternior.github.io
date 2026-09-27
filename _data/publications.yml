@@ -1,6 +1,6 @@
 main:
   - title: "Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language Action Model"
-    authors: 'Hoeun Lee<sup>§ ¶</sup>, Jaeik Kim<sup>¶</sup>, Jusang Oh<sup>¶</sup>, <strong>Jinhyeok Kim</strong>, Geon Choi, Hyeonggeun Kim, Jaeyoung Do<sup>†</sup>'
+    authors: 'Hoeun Lee, Jaeik Kim, Jusang Oh, <strong>Jinhyeok Kim</strong>, Geon Choi, Hyeonggeun Kim, Jaeyoung Do<sup>†</sup>'
     conference_short: NeurIPS
     conference: '40th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026'
     paper: https://arxiv.org/abs/2609.13053
@@ -21,7 +21,7 @@ main:
     image_alt: SPDP sparse inference design overview
 
   - title: "Dynin-Omni: Omnimodal Unified Large Diffusion Language Model"
-    authors: 'Jaeik Kim, Woojin Kim, Jihwan Hong, Yejoon Lee, Sieun Hyeon, Mintaek Lim, Yunseok Han, Dogeun Kim, Hoeun Lee, Hyunggeun Kim, <strong>Jinhyeok Kim</strong>, Jaeyoung Do'
+    authors: 'Jaeik Kim, Woojin Kim, Jihwan Hong, Yejoon Lee, Sieun Hyeon, Mintaek Lim, Yunseok Han, Dogeun Kim, Hoeun Lee, Hyunggeun Kim, <strong>Jinhyeok Kim</strong>, Jaeyoung Do<sup>†</sup>'
     conference_short: arXiv
     conference: arXiv preprint, 2026
     paper: https://arxiv.org/abs/2604.00007
