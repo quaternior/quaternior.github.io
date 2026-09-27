@@ -15,6 +15,7 @@ My research focuses on **efficient AI systems**, particularly LLM inference and 
 
 ## News
 
+- **[Sept. 2026]** Our paper, **Dynin-Robotics**, was accepted to **NeurIPS 2026**!
 - **[Jul. 2026]** Our paper, **Unified Static-Dynamic Pruning for Efficient LLM Inference (SPDP)**, was accepted to **VLDB 2026**!
 
 {% include publications.html %}
