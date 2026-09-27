@@ -1,13 +1,13 @@
 /* Small content/accessibility adjustments to the upstream Minimal Light theme. */
-/* 3x the theme's photo width, with a quarter of the original image margins. */
-.image.avatar img { width:313.2px; height:auto; padding:0; border-radius:4px; }
-.image.avatar { margin:20px 0; }
+/* 2.5x the theme's photo width, with a quarter of the original image margins. */
+.image.avatar img { width:261px; height:auto; padding:0; border-radius:0; }
+.image.avatar { margin:20px 0; border-radius:0; }
 @media(min-width:1101px) {
   .wrapper { width:1080px; }
   header { width:320px; }
 }
-@media(max-width:960px) { .image.avatar img { width:351px; } }
-@media(max-width:480px) { .image.avatar img { width:285px; } }
+@media(max-width:960px) { .image.avatar img { width:292.5px; } }
+@media(max-width:480px) { .image.avatar img { width:237.5px; } }
 .publications .pub-row { align-items:flex-start; }
 .publications .col-sm-3 { flex:0 0 145px; box-sizing:border-box; }
 .publications .col-sm-9 { min-width:0; }
