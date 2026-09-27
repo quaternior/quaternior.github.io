@@ -9,7 +9,6 @@ main:
     code: https://github.com/AIDASLab/Dynin-Robotics
     image: /assets/img/robotics.png
     image_alt: Dynin-Robotics unified model overview
-    notes: Model weights and code coming soon.
 
   - title: Unified Static-Dynamic Pruning for Efficient LLM Inference
     authors: '<strong>Jinhyeok Kim</strong>, Yejoon Lee, <a href="https://sites.google.com/view/jydo/home/">Jaeyoung Do</a><sup>†</sup>'
