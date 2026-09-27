@@ -37,6 +37,10 @@ My research focuses on **efficient AI systems**, particularly LLM inference and 
 - **Research Intern**, [Information Communications & Security Lab](https://sites.google.com/site/jeminleeweb), Yonsei University  
   Jan. 2024 – Feb. 2024
 
+## Academic Service
+
+- **ICLR 2027** — Reviewer
+
 ## Technical Skills
 
 - **Programming & ML:** CUDA, C/C++, Python, PyTorch, Bash
