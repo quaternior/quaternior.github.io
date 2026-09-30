@@ -11,9 +11,10 @@ canonical: https://quaternior.github.io/
 google_scholar: https://scholar.google.com/citations?user=lUqkcSoAAAAJ&hl=en
 github_link: https://github.com/quaternior
 linkedin: https://www.linkedin.com/in/jhyeokkim/
+twitter: https://x.com/gimjinhyeo70925
 avatar: /assets/portrait-quarter-margin.png
-favicon: /assets/favicon.svg
-favicon_dark: /assets/favicon.svg
+favicon: /assets/favicon-j.svg
+favicon_dark: /assets/favicon-j.svg
 enable_footnote: true
 auto_dark_mode: false
 font: Serif
