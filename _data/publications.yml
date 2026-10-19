@@ -3,7 +3,8 @@ main:
     authors: 'Hoeun Lee, Jaeik Kim, Jusang Oh, <strong>Jinhyeok Kim</strong>, Geon Choi, Hyeonggeun Kim, <a href="https://sites.google.com/view/jydo/home/">Jaeyoung Do</a><sup>†</sup>'
     conference_short: NeurIPS
     conference: '40th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026'
-    paper: https://arxiv.org/abs/2609.13053
+    paper: https://neurips.cc/virtual/2026/loc/sydney/poster/148952
+    arxiv: https://arxiv.org/abs/2609.13053
     page: https://dynin.ai/robotics/
     model: https://huggingface.co/snu-aidas/Dynin-Robotics
     code: https://github.com/AIDASLab/Dynin-Robotics
@@ -14,7 +15,9 @@ main:
     authors: '<strong>Jinhyeok Kim</strong>, Yejoon Lee, <a href="https://sites.google.com/view/jydo/home/">Jaeyoung Do</a><sup>†</sup>'
     conference_short: VLDB
     conference: 'Proceedings of the VLDB Endowment <strong>(VLDB)</strong>, 2026'
-    paper: https://arxiv.org/abs/2607.21985
+    paper: https://www.vldb.org/pvldb/vol19/p2950-kim.pdf
+    arxiv: https://arxiv.org/abs/2607.21985
+    page: https://aidaslab.github.io/SPDP/
     code: https://github.com/AIDASLab/SPDP
     image: /assets/img/spdp.png
     image_alt: SPDP sparse inference design overview
@@ -23,7 +26,7 @@ main:
     authors: 'Jaeik Kim, Woojin Kim, Jihwan Hong, Yejoon Lee, Sieun Hyeon, Mintaek Lim, Yunseok Han, Dogeun Kim, Hoeun Lee, Hyunggeun Kim, <strong>Jinhyeok Kim</strong>, <a href="https://sites.google.com/view/jydo/home/">Jaeyoung Do</a><sup>†</sup>'
     conference_short: arXiv
     conference: arXiv preprint, 2026
-    paper: https://arxiv.org/abs/2604.00007
+    arxiv: https://arxiv.org/abs/2604.00007
     page: https://dynin.ai/omni/
     model: https://huggingface.co/snu-aidas/Dynin-Omni
     code: https://github.com/AIDASLab/Dynin-Omni
