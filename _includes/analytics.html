@@ -1,0 +1,19 @@
+{% if site.google_analytics %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.google_analytics }}');
+
+  document.addEventListener('click', function (event) {
+    var link = event.target.closest('.publications .links a');
+    if (!link) return;
+    gtag('event', 'publication_link_click', {
+      publication_title: link.closest('.pub-row').querySelector('.title').textContent.trim(),
+      link_type: link.textContent.trim(),
+      link_url: link.href
+    });
+  });
+</script>
+{% endif %}
